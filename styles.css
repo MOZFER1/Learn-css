@@ -1,0 +1,22 @@
+header{
+    background-color: #333;
+    color: white;
+    padding: 10px;
+    text-align: center;
+    font-size: 24px;
+    font-family: Arial, sans-serif;
+    /* width: 70%; */
+    /* margin-right: auto; */
+    /* margin-left: auto; */
+    margin: 6% 2%;
+    border-width: 12px;
+    border-style: solid;
+    /* border-color: gray */
+    border-color: red green blue yellow;
+    /* outline: 10px solid black; */
+    
+
+
+    
+
+}
